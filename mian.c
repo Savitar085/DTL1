@@ -7,7 +7,6 @@
 int main() {
 
     printf("Hello, World!");
-    prntf("%d", SIGN);
     printf("%d", SIGN);
     return 0;
 }
